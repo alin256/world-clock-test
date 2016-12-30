@@ -1,0 +1,24 @@
+{
+    "author": "cobxo3bot@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "world-clock-test-1",
+    "pebble": {
+        "displayName": "World clock test 1",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "1a48052c-114b-4261-9a15-879f0b11a5f0",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
